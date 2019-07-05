@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<env:Envelope xmlns:env="http://www.w3.org/2003/05/soap-envelope"><env:Body><env:Fault><env:Code><env:Value>301</env:Value></env:Code><env:Reason><env:Text>El CFDI no cumple con el estandar XML. Detalles : Error 1871: Element '{http://www.sat.gob.mx/cfd/3}Retenciones': Missing child element(s). Expected is ( {http://www.sat.gob.mx/cfd/3}Retencion ). </env:Text></env:Reason></env:Fault></env:Body></env:Envelope>
